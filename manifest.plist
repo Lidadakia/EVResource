@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://forreallily.gitee.io/evtest/ios/app/EV_1.0.2_0228.ipa</string>
+					<string>https://github.com/Lidadakia/EVResource/tree/master/app/EV1.0.20228.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://forreallily.gitee.io/evtest/ios/icons/EV57.png</string>
+					<string>https://github.com/Lidadakia/EVResource/tree/master/icons/EV57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://forreallily.gitee.io/evtest/ios/icons/EV512.png</string>
+					<string>https://github.com/Lidadakia/EVResource/tree/master/icons/EV512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
